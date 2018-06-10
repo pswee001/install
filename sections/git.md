@@ -1,25 +1,27 @@
 # Git
+
 Git is a distributed version control system used to manage changes to text files. 
 
-# OS/X
+## Mac OS
 
-On OS/X, git is part of the xcode command line tools. To install them:
+On Mac OS, Git is part of the Xcode command line tools. To install them:
 
-1. Open a [terminal](osx_terminal).
+1. Open a [terminal](osx_terminal.md).
 
 2. Type the following in the terminal:
 ```bash
 xcode-select --install
 ```
-3. [Test install](#test-install)
+3. [Test the installation](#test-install)
 
-# Windows
+## Windows
+
 As part of installing git, install the gitbash command line environment so that the command line is consistent across Windows, OSX and Linux.
 
-1. Download git for windows:
-https://git-scm.com/download/win
+1. [Download git for windows](https://git-scm.com/download/win).
 
-2. *Click* on the git installer:
+2. *Click* on the git installer (the `.exe` file) you downloaded to begin the installation.
+
 ![git installation icon, looks like a tree branch inside 4 colored squares](../images/windows/git/git00.png)
 
 3. *Click* through the installation steps (keeping the defaults) until you reach the "Choosing the default editor used by Git" window. Select `Visual Studio Code` as the default editor. *Click* `Next`:
@@ -37,7 +39,7 @@ https://git-scm.com/download/win
 7. *Click* through the rest of the install, leaving the defaults, and then *click* `Finish` on the last window: 
 ![final installation window that says "completing the git setup wizard"](../images/windows/git/git13.png)
 
-3. [Test install](#test-install)
+3. [Test the installation](#test-install)
 
 ## Test Install
 
@@ -46,6 +48,7 @@ Test that git is installed:
 1. Open a [windows](windows_terminal.md) or [OS/X](osx_terminal.md) terminal. 
 
 2. Type the following into the terminal:
+
 ```bash
  git
  ```

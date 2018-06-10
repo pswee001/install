@@ -4,8 +4,8 @@ This repository contains all installation instructions for the DHRI curriculum.
 
 Session | Software
 --------| -------------------------
-[Command Line](https://github.com/DHRI-Curriculum/command-line) | [VScode](sections/vscode.md), [Git Bash](sections/git.md)(
-[Git](https://github.com/DHRI-Curriculum/git) | [VScode](sections/vscode.md), [git](sections/git.md)
+[Command Line](https://github.com/DHRI-Curriculum/command-line) | [VScode](sections/vscode.md), [Git Bash (Windows only)](sections/git.md#windows)
+[Git](https://github.com/DHRI-Curriculum/git) | [VScode](sections/vscode.md), [Git](sections/git.md)
 [Python](https://github.com/DHRI-Curriculum/python) | [VScode](sections/vscode.md), [Python](sections/python.md), [Conda](sections/conda.md), [Jupyter](sections/jupyter.md)
 [Databases](https://github.com/DHRI-Curriculum/databases) | [Python](sections/python.md), [Pandas](sections/pandas.md), [Conda](sections/conda.md), [Jupyter](sections/jupyter.md)
 [Text Analysis](https://github.com/DHRI-Curriculum/text-analysis) | [Python](sections/python.md), [NLTK](sections/nltk.md), [Conda](sections/conda.md), [Jupyter](sections/jupyter.md)
