@@ -1,12 +1,14 @@
 # Visual Studio Code
-A text editor is a simple notepad type application. For the DRI, we will be using the VSCode text editor because it supports [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting), is free and open source, and is consistent across OSX, Windows, and Linux systems.
 
-## Install
-Download VSCode at https://code.visualstudio.com/ 
-* [OS/X instructions](#os/x)
+A text editor is a program for editing plain text files. For the DHRI, we will be using the VSCode text editor because it supports [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting), is free and open source, and is consistent across OSX, Windows, and Linux systems.
+
 * [Windows instructions](#windows)
+* [Mac OS instructions](#mac)
 
-### Windows
+## Windows
+
+1. [Download VSCode here](https://code.visualstudio.com/).
+
 1. *Click* on the VScode installer in your downloads folder:
 
 ![installer shortcut - shaded blue box with ribbon logo. It has something like `VSCodeSetup-` at the front of its filename](../images/windows/vscode/vscode00.png)
@@ -45,13 +47,14 @@ Download VSCode at https://code.visualstudio.com/
 
 8. [Test Install](#test-install)
 
-### OS/X
+## Mac
 
-To open code from the osx terminal (command line), we need to [add it to path](https://code.visualstudio.com/docs/setup/mac) after the install.
+To open code from the osx terminal (command line), we need to [add it to the path](https://code.visualstudio.com/docs/setup/mac) after the install. Once this is done, we will be able to 
 
-1. [Download VSCode](#download)
+1. [Download VSCode here](https://code.visualstudio.com/).
 
-1. Drag the Visual Studio Code application to `Applications` folder. 
+1. Drag the Visual Studio Code application to the `Applications` folder.
+
 ![osx finder window showing visual studio code icon](../images/osx/vscode/vscode.png)
 
 1. Open VSCode via your preferred method.  *Click* on the icon:
